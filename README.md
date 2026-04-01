@@ -172,16 +172,6 @@ jupyter notebook
 
 Then open any notebook and run the cells sequentially.
 
-## Suggested Improvements
-
-Potential next steps for extending the project:
-
-- Add a `requirements.txt` file for reproducibility
-- Fix random seeds and document training configuration
-- Include confusion matrices and ROC/PR visualizations in the README
-- Add preprocessing details such as tokenization, stopword handling, and sequence padding
-- Compare with transformer-based baselines such as BERT
-- Package the best-performing model for inference/demo use
 
 ## Presentation Resources
 
